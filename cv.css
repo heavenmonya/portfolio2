@@ -208,6 +208,7 @@ footer div{
     .nabar{
         display: flex;
         margin-top: 13%;
+        justify-content: center;
         text-align: center;
         
     }
@@ -339,4 +340,5 @@ footer div{
     footer div{
         display: block;
     }
+    
 }

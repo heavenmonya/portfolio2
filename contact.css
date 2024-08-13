@@ -15,7 +15,7 @@ header{
 
 header nav ul{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     list-style: none;
 }
 
@@ -200,6 +200,7 @@ footer div a{
     }
     
     .menu{
+        justify-content: center;
         font-size: 70%;
         margin-top: 1%;
     
@@ -281,6 +282,7 @@ footer div a{
     }
 
     .menu{
+        justify-content: center;
         margin-top: 7%;
         margin-bottom: 14%;
         padding: 0% 13%;
@@ -355,6 +357,15 @@ footer div a{
 
 @media screen and (max-width: 383px){
 
+    header nav ul{
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        margin: 0% 0%;
+    }
+
+   
+
     .size{
         width: 100%;
         font-size: 85%;
@@ -363,6 +374,19 @@ footer div a{
     .textarea_size{
         width: 100%;
        
+    }
+
+    .send{
+        background-color: #edb510f2;
+        border: solid 1px;
+        border-radius: 50%;
+        justify-content: center;
+        text-align: center;
+        height: 100px;
+        width: 100px;
+        padding: 16% 11%;
+        margin-top: 17%;
+        margin-left: 30%;
     }
 
 

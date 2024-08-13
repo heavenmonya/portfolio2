@@ -126,6 +126,12 @@ footer div a{
 
 @media screen and (max-width: 1140px){
 
+    header nav ul{
+        display: flex;
+        justify-content: center;
+        list-style: none;
+    }
+
     .contenus__first__bloc__parag{
         margin-right: 3%;
         line-height: 130%;
