@@ -338,6 +338,24 @@ footer div{
         filter: grayscale();
     }
 
+   
+
+    .contenaire__text__description{
+        justify-content: center;
+        padding: 0% 0%;
+        margin-bottom: 20%;
+    }
+    
+
+    .contenaire__text__buttom ul li{
+        clip-path: circle();
+        justify-content: center;
+        color: black;
+        padding: 8% 8%;
+        font-size: 70%; 
+        font-weight: bold;
+    }
+
     
 
 }

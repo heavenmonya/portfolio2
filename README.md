@@ -4,8 +4,10 @@ https://github.com/kadea-academy-learners/portfolio-heavenmonya.git
 
 
 
-/*lien du site*/
+/*lien du premier deploiement*/
 
  https://heavenmonya.github.io/Portfolio1/
 
- https://heavenmonya.github.io/Portfolio1/
+ /*lien du deuxieme deploiement*/
+
+https://heavenmonya.github.io/portfolio2/
